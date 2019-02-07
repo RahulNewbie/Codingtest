@@ -2,7 +2,7 @@
 
 ## Requirement   
 
-Flask, lxml, request, logging, json
+Flask, lxml, request, logging, json,io
 Please use pip to install dependencies 
 
 
